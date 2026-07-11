@@ -1,0 +1,7 @@
+{
+  "name": "lsplash-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node lsplash-store.js" },
+  "engines": { "node": ">=18" }
+}
